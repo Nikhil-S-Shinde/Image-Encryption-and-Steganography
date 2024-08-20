@@ -14,7 +14,6 @@ This project demonstrates a simple yet effective method of securing image data u
 2. **Steganography**: The encrypted data is then embedded into another image using the LSB method, hiding the data in plain sight.
 3. **Decryption**: The hidden encrypted data can be extracted and decrypted to retrieve the original image data.
 
-## Installation
 
 **Note**: This code is designed as a proof of concept and should be further developed and tested before being used in production environments.
 
